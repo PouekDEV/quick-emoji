@@ -1,0 +1,26 @@
+{
+  "name": "quick-emoji",
+  "version": "1.0.0",
+  "description": "Simple to use emoji library",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PouekDEV/quick-emoji.git"
+  },
+  "keywords": [
+    "js",
+    "library",
+    "commands",
+    "simplicity",
+    "handler"
+  ],
+  "author": "PouekDEV",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PouekDEV/quick-emoji/issues"
+  },
+  "homepage": "https://github.com/PouekDEV/quick-emoji#readme"
+}
